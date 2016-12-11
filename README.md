@@ -20,6 +20,10 @@ fakeMenu.clickMenu('Config'); // 'Config' Menu click
 fakeMenu.clickMenu('File', 'CloseTab'); // File->CloseTab Menu click
 ```
 
+## Example
+
+https://github.com/joe-re/spectron-fake-menu/tree/master/example
+
 ## API
 
 ### fakeMenu.apply(application: Application)
