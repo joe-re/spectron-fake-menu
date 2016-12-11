@@ -1,7 +1,7 @@
 {
   "name": "spectron-fake-menu",
   "version": "0.0.1",
-  "description": "",
+  "description": "Provide manipulation of menus in your spectron's specs.",
   "main": "main.js",
   "scripts": {
     "test": "mocha test.js"

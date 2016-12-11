@@ -4,7 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": { },
-  "keywords": [],
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-re/spectron-fake-menu.git"
+  },
+  "keywords": [
+    "spectron",
+    "menu",
+    "mock"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
